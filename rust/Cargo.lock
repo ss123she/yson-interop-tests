@@ -447,9 +447,9 @@ dependencies = [
 
 [[package]]
 name = "yson-rs"
-version = "0.1.1"
+version = "0.1.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "8c5963e139383abe0a82d1a335f943b1fa2b4cb1102b97f1415f45246b680225"
+checksum = "8aa5fbacd127f0792741d748638b50878c0f178ffafefd6501c2e41e31a6190d"
 dependencies = [
  "itoa",
  "memchr",
